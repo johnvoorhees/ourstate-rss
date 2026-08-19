@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.johnvoorhees.ourstate-rss</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/johnvoorhees/Code/ourstate-rss/scripts/publish.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/johnvoorhees/Code/ourstate-rss</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>HOME</key>
+    <string>/Users/johnvoorhees</string>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+  </dict>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>StartInterval</key>
+  <integer>3600</integer>
+  <key>ProcessType</key>
+  <string>Background</string>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>StandardOutPath</key>
+  <string>/Users/johnvoorhees/Code/ourstate-rss/logs/publish-out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/johnvoorhees/Code/ourstate-rss/logs/publish-err.log</string>
+</dict>
+</plist>
