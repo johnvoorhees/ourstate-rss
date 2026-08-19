@@ -17,7 +17,7 @@ cleanup() {
 }
 trap cleanup EXIT
 
-git pull --ff-only origin main
+git pull --quiet --ff-only origin main
 PYTHONPATH=src python3 scripts/update_feed.py
 
 if git diff --quiet -- docs/feed.xml; then
@@ -27,4 +27,4 @@ fi
 
 git add -- docs/feed.xml
 git commit -m "Update Our State feed" -- docs/feed.xml
-git push origin main
+git push --quiet origin main

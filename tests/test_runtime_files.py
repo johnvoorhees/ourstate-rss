@@ -27,11 +27,12 @@ class RuntimeFilesTests(unittest.TestCase):
             "set -euo pipefail",
             'mkdir "$LOCK_DIR"',
             "trap cleanup EXIT",
+            "git pull --quiet --ff-only origin main",
             "PYTHONPATH=src python3 scripts/update_feed.py",
             "git diff --quiet -- docs/feed.xml",
             "git add -- docs/feed.xml",
             'git commit -m "Update Our State feed" -- docs/feed.xml',
-            "git push origin main",
+            "git push --quiet origin main",
         ]
         for fragment in required:
             with self.subTest(fragment=fragment):
