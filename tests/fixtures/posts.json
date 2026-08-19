@@ -1,0 +1,26 @@
+[
+  {
+    "id": 103,
+    "date_gmt": "2026-08-18T23:28:42",
+    "modified_gmt": "2026-08-19T12:43:45",
+    "link": "https://www.ourstate.com/newest-story/",
+    "title": {"rendered": "Newest &amp; Best"},
+    "excerpt": {"rendered": "<p>A story about <strong>North Carolina</strong>.</p>", "protected": false}
+  },
+  {
+    "id": 102,
+    "date_gmt": "2026-08-17T10:00:00",
+    "modified_gmt": "2026-08-17T11:00:00",
+    "link": "https://www.ourstate.com/middle-story/",
+    "title": {"rendered": "Middle Story"},
+    "excerpt": {"rendered": "<p>Second excerpt.</p>", "protected": false}
+  },
+  {
+    "id": 101,
+    "date_gmt": "2026-08-16T09:00:00",
+    "modified_gmt": "2026-08-16T09:30:00",
+    "link": "https://www.ourstate.com/oldest-story/",
+    "title": {"rendered": "Oldest Story"},
+    "excerpt": {"rendered": "<p>Third excerpt.</p>", "protected": false}
+  }
+]

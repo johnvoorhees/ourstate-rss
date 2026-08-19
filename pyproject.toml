@@ -1,0 +1,9 @@
+[project]
+name = "ourstate-rss"
+version = "1.0.0"
+description = "Metadata-only RSS mirror for Our State"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
+

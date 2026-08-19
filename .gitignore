@@ -1,2 +1,5 @@
 .worktrees/
-
+__pycache__/
+*.py[cod]
+.publish.lock/
+logs/*.log
