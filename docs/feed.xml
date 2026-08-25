@@ -5,8 +5,29 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:35:48 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Open Door at The Marshall Muse Gallery</title>
+      <link>https://www.ourstate.com/the-marshall-muse-gallery/</link>
+      <guid isPermaLink="false">ourstate-post-214692</guid>
+      <pubDate>Tue, 25 Aug 2026 12:53:22 +0000</pubDate>
+      <description>&lt;p&gt;In downtown Greensboro, a historic house welcomes everyday gatherings and regional artistry with plenty of heart.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/the-marshall-muse-gallery/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Tradition of Stewardship at Copper Ridge</title>
+      <link>https://www.ourstate.com/a-tradition-of-stewardship-at-copper-ridge/</link>
+      <guid isPermaLink="false">ourstate-post-214668</guid>
+      <pubDate>Tue, 25 Aug 2026 12:07:58 +0000</pubDate>
+      <description>&lt;p&gt;Located near a beloved summer camp, a collection of luxurious cabins welcomes future generations to make memories in McDowell County.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-tradition-of-stewardship-at-copper-ridge/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Duck Donuts Finds a New Nest in Corolla</title>
+      <link>https://www.ourstate.com/duck-donuts-finds-a-new-nest-in-corolla/</link>
+      <guid isPermaLink="false">ourstate-post-214719</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:31 +0000</pubDate>
+      <description>&lt;p&gt;After a year’s hiatus, the locally founded business reopened in a grand storefront where doughnut dreams come true.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/duck-donuts-finds-a-new-nest-in-corolla/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Only in Winston-Salem: 5 Can’t-Miss Stops</title>
       <link>https://www.ourstate.com/retro-winston-salem/</link>
@@ -125,27 +146,6 @@
       <guid isPermaLink="false">ourstate-post-200785</guid>
       <pubDate>Tue, 11 Aug 2026 20:00:49 +0000</pubDate>
       <description>&lt;p&gt;Three days, three delicious towns to explore. Here’s where to pair mountain adventures with culinary excellence.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/where-to-eat-jackson-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Where History Comes to Life in Corolla</title>
-      <link>https://www.ourstate.com/where-history-comes-to-life-in-corolla/</link>
-      <guid isPermaLink="false">ourstate-post-214282</guid>
-      <pubDate>Thu, 06 Aug 2026 17:43:44 +0000</pubDate>
-      <description>&lt;p&gt;Once a remote coastal village, Corolla now hums as a bustling vacation destination. As you pass between a lighthouse, shops, and preserved landmarks, you’ll encounter pieces of the past that reflect these stories, inviting visitors to make their own on these sandy shores.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/where-history-comes-to-life-in-corolla/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Smoke Signals in the Sandhills</title>
-      <link>https://www.ourstate.com/smoke-signals-in-the-sandhills/</link>
-      <guid isPermaLink="false">ourstate-post-214250</guid>
-      <pubDate>Thu, 06 Aug 2026 14:39:24 +0000</pubDate>
-      <description>&lt;p&gt;Three pitmaster-approved ways to experience the Pinehurst Barbecue Festival.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/smoke-signals-in-the-sandhills/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Home Cooked: A Legacy Built on Family, Community, and Plenty of Smoke</title>
-      <link>https://www.ourstate.com/home-cooked-a-legacy-built-on-family-community-and-plenty-of-smoke/</link>
-      <guid isPermaLink="false">ourstate-post-214229</guid>
-      <pubDate>Wed, 05 Aug 2026 14:02:39 +0000</pubDate>
-      <description>&lt;p&gt;In Moore County, a family-owned barbecue spot set beside a local airfield serves up slow-smoked flavors, runway views, and a deep devotion to its roots.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/home-cooked-a-legacy-built-on-family-community-and-plenty-of-smoke/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
