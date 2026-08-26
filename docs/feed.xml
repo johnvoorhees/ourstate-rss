@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 26 Aug 2026 17:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:21:40 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Downtown Guide to Gaston County</title>
+      <link>https://www.ourstate.com/your-downtown-guide-to-gaston-county/</link>
+      <guid isPermaLink="false">ourstate-post-211790</guid>
+      <pubDate>Wed, 26 Aug 2026 14:00:06 +0000</pubDate>
+      <description>&lt;p&gt;In the walkable downtowns of Belmont, Mount Holly, and Gastonia, a local guide shares his favorite spots to grab a bite, explore outdoors, and settle in for a stay.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-downtown-guide-to-gaston-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Your Guide to Mitchell County</title>
       <link>https://www.ourstate.com/your-guide-to-mitchell-county/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-214486</guid>
       <pubDate>Tue, 18 Aug 2026 21:37:29 +0000</pubDate>
       <description>&lt;p&gt;Make a TV dinner classic — with a homemade twist. A savory patty simmered in onion gravy offers a cozy end to the day.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/salisbury-steak-with-onion-gravy/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Buttery Apple Cobbler</title>
-      <link>https://www.ourstate.com/buttery-apple-cobbler/</link>
-      <guid isPermaLink="false">ourstate-post-214488</guid>
-      <pubDate>Tue, 18 Aug 2026 21:37:27 +0000</pubDate>
-      <description>&lt;p&gt;Spiced apples bake under a rich cobbler topping to create a crowd-pleasing dessert that is easy enough for a weeknight.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/buttery-apple-cobbler/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
