@@ -5,7 +5,7 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:46:54 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taste of Gaston County Weekend Adventure for Two</title>
@@ -85,6 +85,13 @@
       <description>&lt;p&gt;For longtime residents of West Jefferson, the largest building in town has been a constant companion. Following an extensive restoration, it’s the center of life once again.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/west-jefferson-hotel/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>8 Historic Ways to Stay in Winston-Salem</title>
+      <link>https://www.ourstate.com/8-historic-ways-to-stay-in-winston-salem/</link>
+      <guid isPermaLink="false">ourstate-post-215052</guid>
+      <pubDate>Mon, 31 Aug 2026 16:00:44 +0000</pubDate>
+      <description>&lt;p&gt;In a city known for pairing arts with innovation, old with new, find locally loved experiences to complement your stay across these storied properties.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/8-historic-ways-to-stay-in-winston-salem/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>11 Our State Recipes You Loved in August</title>
       <link>https://www.ourstate.com/11-our-state-recipes-you-loved-in-august-4/</link>
       <guid isPermaLink="false">ourstate-post-215105</guid>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-214668</guid>
       <pubDate>Tue, 25 Aug 2026 12:07:58 +0000</pubDate>
       <description>&lt;p&gt;Located near a beloved summer camp, a collection of luxurious cabins welcomes future generations to make memories in McDowell County.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-tradition-of-stewardship-at-copper-ridge/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Duck Donuts Finds a New Nest in Corolla</title>
-      <link>https://www.ourstate.com/duck-donuts-finds-a-new-nest-in-corolla/</link>
-      <guid isPermaLink="false">ourstate-post-214719</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:31 +0000</pubDate>
-      <description>&lt;p&gt;After a year’s hiatus, the locally founded business reopened in a grand storefront where doughnut dreams come true.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/duck-donuts-finds-a-new-nest-in-corolla/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
