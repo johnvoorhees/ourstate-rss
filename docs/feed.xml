@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:56:28 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Spots for Fall Fun in Mooresville</title>
+      <link>https://www.ourstate.com/5-spots-for-fall-fun-in-mooresville/</link>
+      <guid isPermaLink="false">ourstate-post-201833</guid>
+      <pubDate>Wed, 09 Sep 2026 15:00:10 +0000</pubDate>
+      <description>&lt;p&gt;From pumpkin patches to you-pick flower fields, here’s where to embrace the season’s beauty in Iredell County.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/5-spots-for-fall-fun-in-mooresville/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Taste of Gaston County Weekend Adventure for Two</title>
       <link>https://www.ourstate.com/taste-of-gaston-county-weekend-adventure-for-two-2/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-214692</guid>
       <pubDate>Tue, 25 Aug 2026 12:53:22 +0000</pubDate>
       <description>&lt;p&gt;In downtown Greensboro, a historic house welcomes everyday gatherings and regional artistry with plenty of heart.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/the-marshall-muse-gallery/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Tradition of Stewardship at Copper Ridge</title>
-      <link>https://www.ourstate.com/a-tradition-of-stewardship-at-copper-ridge/</link>
-      <guid isPermaLink="false">ourstate-post-214668</guid>
-      <pubDate>Tue, 25 Aug 2026 12:07:58 +0000</pubDate>
-      <description>&lt;p&gt;Located near a beloved summer camp, a collection of luxurious cabins welcomes future generations to make memories in McDowell County.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-tradition-of-stewardship-at-copper-ridge/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
