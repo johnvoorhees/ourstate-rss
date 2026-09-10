@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Sep 2026 20:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:36:10 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Guide to Elizabeth City</title>
+      <link>https://www.ourstate.com/your-guide-to-elizabeth-city/</link>
+      <guid isPermaLink="false">ourstate-post-175565</guid>
+      <pubDate>Thu, 10 Sep 2026 15:00:14 +0000</pubDate>
+      <description>&lt;p&gt;Situated on the Pasquotank River, Elizabeth City welcomes visitors to explore its Harbor of Hospitality, independent shops, local food and drink destinations, and family-friendly activities.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-guide-to-elizabeth-city/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>5 Spots for Fall Fun in Mooresville</title>
       <link>https://www.ourstate.com/5-spots-for-fall-fun-in-mooresville/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-214435</guid>
       <pubDate>Wed, 26 Aug 2026 12:29:00 +0000</pubDate>
       <description>&lt;p&gt;Hike scenic trails, paddle gentle waters, and embrace local festivals in this High Country haven that celebrates the mountains that shape it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-guide-to-mitchell-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An Open Door at The Marshall Muse Gallery</title>
-      <link>https://www.ourstate.com/the-marshall-muse-gallery/</link>
-      <guid isPermaLink="false">ourstate-post-214692</guid>
-      <pubDate>Tue, 25 Aug 2026 12:53:22 +0000</pubDate>
-      <description>&lt;p&gt;In downtown Greensboro, a historic house welcomes everyday gatherings and regional artistry with plenty of heart.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/the-marshall-muse-gallery/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
