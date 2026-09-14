@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Sep 2026 14:57:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:06:30 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Insider’s Guide to Fall in Henderson County</title>
+      <link>https://www.ourstate.com/insiders-guide-to-fall-in-henderson-county/</link>
+      <guid isPermaLink="false">ourstate-post-215602</guid>
+      <pubDate>Mon, 14 Sep 2026 15:49:52 +0000</pubDate>
+      <description>&lt;p&gt;As autumn settles across the Blue Ridge Mountains, locals share their favorite places to hike to views, sip wine in a vineyard, and participate in harvest-season fun.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/insiders-guide-to-fall-in-henderson-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Magnificent Mocktails: Pumpkin No-spresso Martini</title>
       <link>https://www.ourstate.com/magnificent-mocktails-pumpkin-no-spresso-martini/</link>
@@ -15,7 +22,7 @@
       <description>&lt;p&gt;Pumpkin spice and everything nice … Welcome fall with a seasonal sipper all groups can enjoy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/magnificent-mocktails-pumpkin-no-spresso-martini/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A Night Out at ‘Twas the Night Before… By Cirque du Soleil at DPAC</title>
+      <title>A Night Out at ‘Twas the Night Before… by Cirque du Soleil at DPAC</title>
       <link>https://www.ourstate.com/a-night-out-at-twas-the-night-before-by-cirque-du-soleil-at-dpac/</link>
       <guid isPermaLink="false">ourstate-post-215530</guid>
       <pubDate>Mon, 14 Sep 2026 08:00:37 +0000</pubDate>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-214876</guid>
       <pubDate>Thu, 27 Aug 2026 16:21:29 +0000</pubDate>
       <description>&lt;p&gt;For generations, White’s bright blue awning has marked a familiar stop in Manns Harbor — home to a family-run store and grill built on service, tradition, and a deep sense of place.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/whites-shopping-center/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>View Finder</title>
-      <link>https://www.ourstate.com/view-finder/</link>
-      <guid isPermaLink="false">ourstate-post-214954</guid>
-      <pubDate>Thu, 27 Aug 2026 16:19:30 +0000</pubDate>
-      <description>&lt;p&gt;The state’s biggest, highest, oldest, fastest, and farthest places have more than superlatives to their names. They also offer some of our most striking sights.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/view-finder/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
