@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:57:04 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magnificent Mocktails: Pumpkin No-spresso Martini</title>
+      <link>https://www.ourstate.com/magnificent-mocktails-pumpkin-no-spresso-martini/</link>
+      <guid isPermaLink="false">ourstate-post-215593</guid>
+      <pubDate>Mon, 14 Sep 2026 14:17:17 +0000</pubDate>
+      <description>&lt;p&gt;Pumpkin spice and everything nice … Welcome fall with a seasonal sipper all groups can enjoy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/magnificent-mocktails-pumpkin-no-spresso-martini/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Night Out at ‘Twas the Night Before… By Cirque du Soleil at DPAC</title>
       <link>https://www.ourstate.com/a-night-out-at-twas-the-night-before-by-cirque-du-soleil-at-dpac/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-214954</guid>
       <pubDate>Thu, 27 Aug 2026 16:19:30 +0000</pubDate>
       <description>&lt;p&gt;The state’s biggest, highest, oldest, fastest, and farthest places have more than superlatives to their names. They also offer some of our most striking sights.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/view-finder/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Danville Outdoors Experience for Every Type of Traveler</title>
-      <link>https://www.ourstate.com/outdoor-adventures-danville-virginia/</link>
-      <guid isPermaLink="false">ourstate-post-215009</guid>
-      <pubDate>Thu, 27 Aug 2026 15:01:36 +0000</pubDate>
-      <description>&lt;p&gt;From alpaca farms to rugged trails, all levels of adventure await across the state line.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/outdoor-adventures-danville-virginia/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
