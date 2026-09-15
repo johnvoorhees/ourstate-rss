@@ -5,8 +5,22 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:59:45 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Guide to Apex</title>
+      <link>https://www.ourstate.com/your-guide-to-apex/</link>
+      <guid isPermaLink="false">ourstate-post-202875</guid>
+      <pubDate>Tue, 15 Sep 2026 14:52:46 +0000</pubDate>
+      <description>&lt;p&gt;Rooted in railroad history, this charming Wake County downtown is a modern-day hub for shopping, dining, seasonal events, and easy access to some of the Piedmont’s most beloved outdoor spaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-guide-to-apex/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Weekend Guide to Wilkes County’s Wine Country</title>
+      <link>https://www.ourstate.com/a-weekend-guide-to-wilkes-countys-wine-country/</link>
+      <guid isPermaLink="false">ourstate-post-215764</guid>
+      <pubDate>Tue, 15 Sep 2026 14:26:18 +0000</pubDate>
+      <description>&lt;p&gt;From riverfront patios to hillside estates, here’s where to trace the tradition from grapevine to glass in the Yadkin Valley.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-weekend-guide-to-wilkes-countys-wine-country/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>An Insider’s Guide to Fall in Henderson County</title>
       <link>https://www.ourstate.com/insiders-guide-to-fall-in-henderson-county/</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="false">ourstate-post-215052</guid>
       <pubDate>Mon, 31 Aug 2026 16:00:44 +0000</pubDate>
       <description>&lt;p&gt;In a city known for pairing arts with innovation, old with new, find locally loved experiences to complement your stay across these storied properties.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/8-historic-ways-to-stay-in-winston-salem/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>11 Our State Recipes You Loved in August</title>
-      <link>https://www.ourstate.com/11-our-state-recipes-you-loved-in-august-4/</link>
-      <guid isPermaLink="false">ourstate-post-215105</guid>
-      <pubDate>Thu, 27 Aug 2026 16:31:46 +0000</pubDate>
-      <description>&lt;p&gt;A summery cornucopia of squash, okra, and peaches filled readers’ kitchens this month. See the desserts, fritters, and succotashes that made use of the season’s abundance.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/11-our-state-recipes-you-loved-in-august-4/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Before the Bridge</title>
-      <link>https://www.ourstate.com/whites-shopping-center/</link>
-      <guid isPermaLink="false">ourstate-post-214876</guid>
-      <pubDate>Thu, 27 Aug 2026 16:21:29 +0000</pubDate>
-      <description>&lt;p&gt;For generations, White’s bright blue awning has marked a familiar stop in Manns Harbor — home to a family-run store and grill built on service, tradition, and a deep sense of place.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/whites-shopping-center/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
