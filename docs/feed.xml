@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 19:04:00 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Mountain Magic at Trillium Table</title>
+      <link>https://www.ourstate.com/black-mountain-magic-at-trillium-table/</link>
+      <guid isPermaLink="false">ourstate-post-216131</guid>
+      <pubDate>Mon, 21 Sep 2026 19:04:00 +0000</pubDate>
+      <description>&lt;p&gt;A Buncombe County restaurant housed inside a landmark inn has become a new classic, thanks to the efforts of one young chef and his family.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/black-mountain-magic-at-trillium-table/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>3 Recipes to Make in Your Mountain Cabin</title>
       <link>https://www.ourstate.com/3-recipes-to-make-in-your-mountain-cabin/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-215602</guid>
       <pubDate>Mon, 14 Sep 2026 15:49:52 +0000</pubDate>
       <description>&lt;p&gt;As autumn settles across the Blue Ridge Mountains, locals share their favorite places to hike to views, sip wine in a vineyard, and participate in harvest-season fun.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/insiders-guide-to-fall-in-henderson-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Magnificent Mocktails: Pumpkin No-spresso Martini</title>
-      <link>https://www.ourstate.com/magnificent-mocktails-pumpkin-no-spresso-martini/</link>
-      <guid isPermaLink="false">ourstate-post-215593</guid>
-      <pubDate>Mon, 14 Sep 2026 14:17:17 +0000</pubDate>
-      <description>&lt;p&gt;Pumpkin spice and everything nice … Welcome fall with a seasonal sipper all groups can enjoy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/magnificent-mocktails-pumpkin-no-spresso-martini/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
