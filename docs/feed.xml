@@ -5,7 +5,7 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Sep 2026 19:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 19:35:45 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black Mountain Magic at Trillium Table</title>
@@ -13,6 +13,20 @@
       <guid isPermaLink="false">ourstate-post-216131</guid>
       <pubDate>Mon, 21 Sep 2026 19:04:00 +0000</pubDate>
       <description>&lt;p&gt;A Buncombe County restaurant housed inside a landmark inn has become a new classic, thanks to the efforts of one young chef and his family.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/black-mountain-magic-at-trillium-table/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>At Home on the Green in Pinehurst</title>
+      <link>https://www.ourstate.com/at-home-on-the-green-in-pinehurst/</link>
+      <guid isPermaLink="false">ourstate-post-216043</guid>
+      <pubDate>Mon, 21 Sep 2026 19:00:20 +0000</pubDate>
+      <description>&lt;p&gt;Good company and Southern hospitality shine at this new Sandhills retreat.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/at-home-on-the-green-in-pinehurst/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Place to Grow at Wiregrass</title>
+      <link>https://www.ourstate.com/a-place-to-grow-at-wiregrass/</link>
+      <guid isPermaLink="false">ourstate-post-208474</guid>
+      <pubDate>Mon, 21 Sep 2026 19:00:07 +0000</pubDate>
+      <description>&lt;p&gt;A Pinehurst restaurant takes inspiration from its surrounding landscape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-place-to-grow-at-wiregrass/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>3 Recipes to Make in Your Mountain Cabin</title>
@@ -132,20 +146,6 @@
       <guid isPermaLink="false">ourstate-post-202875</guid>
       <pubDate>Tue, 15 Sep 2026 14:52:46 +0000</pubDate>
       <description>&lt;p&gt;Rooted in railroad history, this charming Wake County downtown is a modern-day hub for shopping, dining, seasonal events, and easy access to some of the Piedmont’s most beloved outdoor spaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-guide-to-apex/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Weekend Guide to Wilkes County’s Wine Country</title>
-      <link>https://www.ourstate.com/a-weekend-guide-to-wilkes-countys-wine-country/</link>
-      <guid isPermaLink="false">ourstate-post-215764</guid>
-      <pubDate>Tue, 15 Sep 2026 14:26:18 +0000</pubDate>
-      <description>&lt;p&gt;From riverfront patios to hillside estates, here’s where to trace the tradition from grapevine to glass in the Yadkin Valley.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-weekend-guide-to-wilkes-countys-wine-country/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An Insider’s Guide to Fall in Henderson County</title>
-      <link>https://www.ourstate.com/insiders-guide-to-fall-in-henderson-county/</link>
-      <guid isPermaLink="false">ourstate-post-215602</guid>
-      <pubDate>Mon, 14 Sep 2026 15:49:52 +0000</pubDate>
-      <description>&lt;p&gt;As autumn settles across the Blue Ridge Mountains, locals share their favorite places to hike to views, sip wine in a vineyard, and participate in harvest-season fun.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/insiders-guide-to-fall-in-henderson-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
