@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Sep 2026 21:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:37:05 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Outdoor Lover’s Guide to Gaston County</title>
+      <link>https://www.ourstate.com/gaston-county-outdoors/</link>
+      <guid isPermaLink="false">ourstate-post-204026</guid>
+      <pubDate>Tue, 22 Sep 2026 11:00:24 +0000</pubDate>
+      <description>&lt;p&gt;Hiking enthusiast and Gaston County local Vivianette Ortiz Caraballo shares her insider recommendations for where to play in Crowders Mountain, Gastonia, Belmont, and beyond.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/gaston-county-outdoors/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Black Mountain Magic at Trillium Table</title>
       <link>https://www.ourstate.com/black-mountain-magic-at-trillium-table/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-215958</guid>
       <pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
       <description>&lt;p&gt;Our nation’s race to the final frontier has roots in North Carolina. From Chapel Hill’s Morehead Planetarium to Tally Ho, contributor Brad Campbell tells us about places that shaped our legacy of exploration.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/hidden-history-north-carolina-in-space/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Your Guide to Apex</title>
-      <link>https://www.ourstate.com/your-guide-to-apex/</link>
-      <guid isPermaLink="false">ourstate-post-202875</guid>
-      <pubDate>Tue, 15 Sep 2026 14:52:46 +0000</pubDate>
-      <description>&lt;p&gt;Rooted in railroad history, this charming Wake County downtown is a modern-day hub for shopping, dining, seasonal events, and easy access to some of the Piedmont’s most beloved outdoor spaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-guide-to-apex/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
