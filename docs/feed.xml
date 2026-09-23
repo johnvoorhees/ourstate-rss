@@ -5,8 +5,22 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:56:42 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performing Arts Take the Stage in Alamance County</title>
+      <link>https://www.ourstate.com/performing-arts-take-the-stage-in-alamance-county/</link>
+      <guid isPermaLink="false">ourstate-post-216154</guid>
+      <pubDate>Wed, 23 Sep 2026 11:23:02 +0000</pubDate>
+      <description>&lt;p&gt;From downtown festivals to cozy concert halls, these venues and organizations infuse central North Carolina with a spirit of culture and creativity.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/performing-arts-take-the-stage-in-alamance-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Festival That Gives “Home-Grown” a New Meaning</title>
+      <link>https://www.ourstate.com/north-carolina-cotton-festival/</link>
+      <guid isPermaLink="false">ourstate-post-216058</guid>
+      <pubDate>Wed, 23 Sep 2026 10:59:58 +0000</pubDate>
+      <description>&lt;p&gt;In downtown Dunn, the annual North Carolina Cotton Festival invites a community built on the crop to celebrate its roots.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/north-carolina-cotton-festival/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>An Outdoor Lover’s Guide to Gaston County</title>
       <link>https://www.ourstate.com/gaston-county-outdoors/</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="false">ourstate-post-215962</guid>
       <pubDate>Tue, 15 Sep 2026 19:00:59 +0000</pubDate>
       <description>&lt;p&gt;From peaks and ridgelines to the slopes dappled with shadows and sunlight, our editor in chief delights in the way our mountains captivate us — no matter how many times we see them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-interior-geography/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>North Carolina, Naturally: Bioluminescence</title>
-      <link>https://www.ourstate.com/north-carolina-naturally-bioluminescence/</link>
-      <guid isPermaLink="false">ourstate-post-215950</guid>
-      <pubDate>Tue, 15 Sep 2026 19:00:02 +0000</pubDate>
-      <description>&lt;p&gt;From luminous phytoplankton in the shallows around Bald Head Island to the dismalites in the rocks on Grandfather Mountain, Dr. Eleanor Spicer Rice explores how North Carolina glows at night.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/north-carolina-naturally-bioluminescence/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hidden History: North Carolina in Space</title>
-      <link>https://www.ourstate.com/hidden-history-north-carolina-in-space/</link>
-      <guid isPermaLink="false">ourstate-post-215958</guid>
-      <pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Our nation’s race to the final frontier has roots in North Carolina. From Chapel Hill’s Morehead Planetarium to Tally Ho, contributor Brad Campbell tells us about places that shaped our legacy of exploration.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/hidden-history-north-carolina-in-space/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
