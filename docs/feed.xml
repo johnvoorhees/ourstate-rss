@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:06:24 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Guide to Haywood County</title>
+      <link>https://www.ourstate.com/your-guide-to-haywood-county-nc/</link>
+      <guid isPermaLink="false">ourstate-post-216167</guid>
+      <pubDate>Wed, 23 Sep 2026 18:00:07 +0000</pubDate>
+      <description>&lt;p&gt;Welcome a slower pace and mountain charm amid Blue Ridge views as you explore across Maggie Valley, Waynesville, Clyde, Canton, and Lake Junaluska.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-guide-to-haywood-county-nc/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Three Fall Road Trips Through North Carolina’s Mountains</title>
       <link>https://www.ourstate.com/three-fall-road-trips-through-north-carolinas-mountains/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-215759</guid>
       <pubDate>Tue, 15 Sep 2026 21:11:58 +0000</pubDate>
       <description>&lt;p&gt;A crackling fire, tin-foil packets, and warm soft tortillas — finger food doesn’t get more fun than this.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/campfire-fajita-packets/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Chili Mac &amp; Cheese</title>
-      <link>https://www.ourstate.com/chili-mac-cheese/</link>
-      <guid isPermaLink="false">ourstate-post-215754</guid>
-      <pubDate>Tue, 15 Sep 2026 21:11:58 +0000</pubDate>
-      <description>&lt;p&gt;For a cozy meal to share with friends, Chef Lynn Wells pairs warming chili flavors and textures with melty macaroni and cheese.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/chili-mac-cheese/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
