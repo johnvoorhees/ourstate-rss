@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:13:35 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Fall Road Trips Through North Carolina’s Mountains</title>
+      <link>https://www.ourstate.com/three-fall-road-trips-through-north-carolinas-mountains/</link>
+      <guid isPermaLink="false">ourstate-post-215929</guid>
+      <pubDate>Wed, 23 Sep 2026 15:00:38 +0000</pubDate>
+      <description>&lt;p&gt;Follow the trail to waterfalls in Transylvania County, take an art enthusiast’s tour through Blowing Rock, and climb a lookout tower for sweeping views in Franklin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/three-fall-road-trips-through-north-carolinas-mountains/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Performing Arts Take the Stage in Alamance County</title>
       <link>https://www.ourstate.com/performing-arts-take-the-stage-in-alamance-county/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-215754</guid>
       <pubDate>Tue, 15 Sep 2026 21:11:58 +0000</pubDate>
       <description>&lt;p&gt;For a cozy meal to share with friends, Chef Lynn Wells pairs warming chili flavors and textures with melty macaroni and cheese.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/chili-mac-cheese/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From Elizabeth: Interior Geography</title>
-      <link>https://www.ourstate.com/from-elizabeth-interior-geography/</link>
-      <guid isPermaLink="false">ourstate-post-215962</guid>
-      <pubDate>Tue, 15 Sep 2026 19:00:59 +0000</pubDate>
-      <description>&lt;p&gt;From peaks and ridgelines to the slopes dappled with shadows and sunlight, our editor in chief delights in the way our mountains captivate us — no matter how many times we see them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-interior-geography/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
