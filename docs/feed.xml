@@ -5,7 +5,7 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 14:45:41 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Night Magic</title>
@@ -34,6 +34,13 @@
       <guid isPermaLink="false">ourstate-post-216324</guid>
       <pubDate>Fri, 25 Sep 2026 12:31:32 +0000</pubDate>
       <description>&lt;p&gt;Our mountains have long been fertile ground for folklore. Whispered around campfires and on darkening front porches, these fables have grown in legend after years of telling and retelling.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/4-tar-heel-tall-tales/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Homespun: The Story Behind R. Riveter</title>
+      <link>https://www.ourstate.com/homespun-r-riveter/</link>
+      <guid isPermaLink="false">ourstate-post-216274</guid>
+      <pubDate>Fri, 25 Sep 2026 11:55:49 +0000</pubDate>
+      <description>&lt;p&gt;In Southern Pines, handcrafted bags and a community of military spouses come together to stitch a story of unwavering support.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/homespun-r-riveter/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>6 Ways to Dive Into Beauty in Cherokee County</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-215812</guid>
       <pubDate>Tue, 15 Sep 2026 21:15:18 +0000</pubDate>
       <description>&lt;p&gt;From Blue Ridge peaks and fog-covered ridgelines to the slopes dappled with shadows and sunlight, our editor in chief delights in the way our mountains captivate us — no matter how many times we see them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-hudson-interior-geography/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Global Flavors</title>
-      <link>https://www.ourstate.com/international-food-quiz/</link>
-      <guid isPermaLink="false">ourstate-post-215871</guid>
-      <pubDate>Tue, 15 Sep 2026 21:15:03 +0000</pubDate>
-      <description>&lt;p&gt;North Carolina’s international markets offer a taste of the many flavors and traditions that shape our state.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/international-food-quiz/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
