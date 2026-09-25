@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 23 Sep 2026 18:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:52:44 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6 Ways to Dive Into Beauty in Cherokee County</title>
+      <link>https://www.ourstate.com/5-ways-to-dive-into-beauty-in-cherokee-county/</link>
+      <guid isPermaLink="false">ourstate-post-202452</guid>
+      <pubDate>Fri, 25 Sep 2026 11:25:51 +0000</pubDate>
+      <description>&lt;p&gt;Whether you hike mountain trails or dive into workshops at the folk school, places to find beauty and inspiration abound in our state’s western edge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/5-ways-to-dive-into-beauty-in-cherokee-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Your Guide to Haywood County</title>
       <link>https://www.ourstate.com/your-guide-to-haywood-county-nc/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-215761</guid>
       <pubDate>Tue, 15 Sep 2026 21:11:58 +0000</pubDate>
       <description>&lt;p&gt;Cool and creamy fish dip with seasoned saltines bring bold flavors and textures into one make-ahead appetizer.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/smoked-trout-dip-with-fried-saltines/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Campfire Fajita Packets</title>
-      <link>https://www.ourstate.com/campfire-fajita-packets/</link>
-      <guid isPermaLink="false">ourstate-post-215759</guid>
-      <pubDate>Tue, 15 Sep 2026 21:11:58 +0000</pubDate>
-      <description>&lt;p&gt;A crackling fire, tin-foil packets, and warm soft tortillas — finger food doesn’t get more fun than this.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/campfire-fajita-packets/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
