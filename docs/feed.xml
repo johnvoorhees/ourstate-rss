@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 30 Sep 2026 15:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:01:40 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>North Carolina Love Notes</title>
+      <link>https://www.ourstate.com/north-carolina-love-notes/</link>
+      <guid isPermaLink="false">ourstate-post-205686</guid>
+      <pubDate>Tue, 06 Oct 2026 16:53:39 +0000</pubDate>
+      <description>&lt;p&gt;Tiny tributes to the things we adore about where we call home.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/north-carolina-love-notes/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>17 Mountain Golden Hours Worth Chasing</title>
       <link>https://www.ourstate.com/mountain-golden-hours/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-216274</guid>
       <pubDate>Fri, 25 Sep 2026 11:55:49 +0000</pubDate>
       <description>&lt;p&gt;In Southern Pines, handcrafted bags and a community of military spouses come together to stitch a story of unwavering support.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/homespun-r-riveter/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>6 Ways to Dive Into Beauty in Cherokee County</title>
-      <link>https://www.ourstate.com/5-ways-to-dive-into-beauty-in-cherokee-county/</link>
-      <guid isPermaLink="false">ourstate-post-202452</guid>
-      <pubDate>Fri, 25 Sep 2026 11:25:51 +0000</pubDate>
-      <description>&lt;p&gt;Whether you hike mountain trails or dive into workshops at the folk school, places to find beauty and inspiration abound in our state’s western edge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/5-ways-to-dive-into-beauty-in-cherokee-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
