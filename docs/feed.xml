@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:09:26 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fall Into the Holidays in Williamsburg and Beyond</title>
+      <link>https://www.ourstate.com/fall-into-the-holidays-in-williamsburg-and-beyond/</link>
+      <guid isPermaLink="false">ourstate-post-216889</guid>
+      <pubDate>Mon, 12 Oct 2026 17:37:50 +0000</pubDate>
+      <description>&lt;p&gt;From Halloween to Christmas, celebrate historic traditions and make some new ones in Williamsburg, Jamestown, and Yorktown.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/fall-into-the-holidays-in-williamsburg-and-beyond/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Our State Gift Guide 2026</title>
       <link>https://www.ourstate.com/our-state-gift-guide-2026/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-216299</guid>
       <pubDate>Fri, 25 Sep 2026 12:40:17 +0000</pubDate>
       <description>&lt;p&gt;Don’t call it a day just yet. Some of North Carolina’s best adventures begin after dark.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/night-magic/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>11 Our State Recipes You Loved in September</title>
-      <link>https://www.ourstate.com/11-our-state-recipes-you-loved-in-september-5/</link>
-      <guid isPermaLink="false">ourstate-post-216413</guid>
-      <pubDate>Fri, 25 Sep 2026 12:34:46 +0000</pubDate>
-      <description>&lt;p&gt;At the first signs of fall, readers swapped summer salads and seasonal produce for spiced quick breads, cozy cobblers, and comforting dinners. Here are the ones you loved most this month.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/11-our-state-recipes-you-loved-in-september-5/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
