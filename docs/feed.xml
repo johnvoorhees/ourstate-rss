@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Oct 2026 13:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:06:09 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our State Gift Guide 2026</title>
+      <link>https://www.ourstate.com/our-state-gift-guide-2026/</link>
+      <guid isPermaLink="false">ourstate-post-216919</guid>
+      <pubDate>Mon, 12 Oct 2026 16:06:09 +0000</pubDate>
+      <description>&lt;p&gt;This holiday season, shop for gourmet goodies, curated experiences, and home decor from independent makers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/our-state-gift-guide-2026/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Your Guide to New Bern</title>
       <link>https://www.ourstate.com/guide-downtown-new-bern/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-216413</guid>
       <pubDate>Fri, 25 Sep 2026 12:34:46 +0000</pubDate>
       <description>&lt;p&gt;At the first signs of fall, readers swapped summer salads and seasonal produce for spiced quick breads, cozy cobblers, and comforting dinners. Here are the ones you loved most this month.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/11-our-state-recipes-you-loved-in-september-5/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>4 Tar Heel Tall Tales</title>
-      <link>https://www.ourstate.com/4-tar-heel-tall-tales/</link>
-      <guid isPermaLink="false">ourstate-post-216324</guid>
-      <pubDate>Fri, 25 Sep 2026 12:31:32 +0000</pubDate>
-      <description>&lt;p&gt;Our mountains have long been fertile ground for folklore. Whispered around campfires and on darkening front porches, these fables have grown in legend after years of telling and retelling.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/4-tar-heel-tall-tales/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
