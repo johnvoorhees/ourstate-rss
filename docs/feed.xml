@@ -5,8 +5,22 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Oct 2026 21:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:21:01 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>North Carolina, Naturally: Biodiversity</title>
+      <link>https://www.ourstate.com/north-carolina-naturally-biodiversity/</link>
+      <guid isPermaLink="false">ourstate-post-217234</guid>
+      <pubDate>Tue, 13 Oct 2026 21:16:28 +0000</pubDate>
+      <description>&lt;p&gt;Home to more life forms than some Old World countries, North Carolina teems with biodiversity, from bald eagles to black bears. Looking for the best way to experience this natural abundance? Just step outside.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/north-carolina-naturally-biodiversity/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Elizabeth: Storytellers Among Us</title>
+      <link>https://www.ourstate.com/from-elizabeth-storytellers-among-us/</link>
+      <guid isPermaLink="false">ourstate-post-217239</guid>
+      <pubDate>Tue, 13 Oct 2026 21:16:25 +0000</pubDate>
+      <description>&lt;p&gt;In this episode of From Elizabeth, our editor in chief celebrates the writers, relatives, and friends whose words transport us through time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-storytellers-among-us/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Shelling Out</title>
       <link>https://www.ourstate.com/shelling-out/</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="false">ourstate-post-216360</guid>
       <pubDate>Tue, 29 Sep 2026 03:46:34 +0000</pubDate>
       <description>&lt;p&gt;At dawn and dusk, the sun transforms these superb mountain vistas into something even more dazzling.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/mountain-golden-hours/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Between Sun &amp; Shade</title>
-      <link>https://www.ourstate.com/between-sun-shade/</link>
-      <guid isPermaLink="false">ourstate-post-216607</guid>
-      <pubDate>Tue, 29 Sep 2026 03:45:20 +0000</pubDate>
-      <description>&lt;p&gt;A trout under rhododendrons, a fawn in tall grass, a bobcat beside a sunny log: In nature, survival often comes down to knowing where to pause.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/between-sun-shade/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>3 Shaded Mountain Hikes</title>
-      <link>https://www.ourstate.com/3-shaded-mountain-hikes/</link>
-      <guid isPermaLink="false">ourstate-post-216593</guid>
-      <pubDate>Tue, 29 Sep 2026 03:45:18 +0000</pubDate>
-      <description>&lt;p&gt;In western North Carolina, these wooded trails show why shade deserves its day in the sun.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/3-shaded-mountain-hikes/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
