@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Oct 2026 16:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:28:23 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hidden History: Airships</title>
+      <link>https://www.ourstate.com/hidden-history-airships/</link>
+      <guid isPermaLink="false">ourstate-post-217311</guid>
+      <pubDate>Thu, 15 Oct 2026 17:28:23 +0000</pubDate>
+      <description>&lt;p&gt;In the 1940s, a massive hangar cropped up in the fields of northeastern North Carolina. Inside, it housed light-as-air zeppelins, designed by the Navy to usher convoys safely around German U-boats lurking in the Atlantic, earning them the moniker “Shepherds of the Fleets.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/hidden-history-airships/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>North Carolina, Naturally: Biodiversity</title>
       <link>https://www.ourstate.com/north-carolina-naturally-biodiversity/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-205686</guid>
       <pubDate>Tue, 06 Oct 2026 16:53:39 +0000</pubDate>
       <description>&lt;p&gt;Tiny tributes to the things we adore about where we call home.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/north-carolina-love-notes/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>17 Mountain Golden Hours Worth Chasing</title>
-      <link>https://www.ourstate.com/mountain-golden-hours/</link>
-      <guid isPermaLink="false">ourstate-post-216360</guid>
-      <pubDate>Tue, 29 Sep 2026 03:46:34 +0000</pubDate>
-      <description>&lt;p&gt;At dawn and dusk, the sun transforms these superb mountain vistas into something even more dazzling.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/mountain-golden-hours/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
