@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:51:20 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Holiday Magic at Aquarium Aglow</title>
+      <link>https://www.ourstate.com/holiday-magic-at-aquarium-aglow/</link>
+      <guid isPermaLink="false">ourstate-post-203490</guid>
+      <pubDate>Mon, 19 Oct 2026 16:50:08 +0000</pubDate>
+      <description>&lt;p&gt;Within familiar galleries, visitors of all ages can create new traditions amid the transformative lighting and festive features — including visits from Scuba Claus.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/holiday-magic-at-aquarium-aglow/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hidden History: Airships</title>
       <link>https://www.ourstate.com/hidden-history-airships/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-188621</guid>
       <pubDate>Mon, 12 Oct 2026 13:30:30 +0000</pubDate>
       <description>&lt;p&gt;Situated between the Neuse and Trent rivers, New Bern’s history runs deep, from serving as our state’s first capital to a bustling port city and the birthplace of Pepsi. Today, this coastal city offers travelers a first-rate Southern destination.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/guide-downtown-new-bern/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>North Carolina Love Notes</title>
-      <link>https://www.ourstate.com/north-carolina-love-notes/</link>
-      <guid isPermaLink="false">ourstate-post-205686</guid>
-      <pubDate>Tue, 06 Oct 2026 16:53:39 +0000</pubDate>
-      <description>&lt;p&gt;Tiny tributes to the things we adore about where we call home.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/north-carolina-love-notes/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
