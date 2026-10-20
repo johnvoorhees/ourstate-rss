@@ -5,7 +5,7 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:26:51 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Trails to Skies: An Inspiring Weekend in Burnsville</title>
@@ -34,13 +34,6 @@
       <guid isPermaLink="false">ourstate-post-217234</guid>
       <pubDate>Tue, 13 Oct 2026 21:16:28 +0000</pubDate>
       <description>&lt;p&gt;Home to more life forms than some Old World countries, North Carolina teems with biodiversity, from bald eagles to black bears. Looking for the best way to experience this natural abundance? Just step outside.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/north-carolina-naturally-biodiversity/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From Elizabeth: Storytellers Among Us</title>
-      <link>https://www.ourstate.com/from-elizabeth-storytellers-among-us/</link>
-      <guid isPermaLink="false">ourstate-post-217239</guid>
-      <pubDate>Tue, 13 Oct 2026 21:16:25 +0000</pubDate>
-      <description>&lt;p&gt;In this episode of From Elizabeth, our editor in chief celebrates the writers, relatives, and friends whose words transport us through time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-storytellers-among-us/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shelling Out</title>
@@ -132,6 +125,13 @@
       <guid isPermaLink="false">ourstate-post-217159</guid>
       <pubDate>Tue, 13 Oct 2026 20:48:32 +0000</pubDate>
       <description>&lt;p&gt;Built around North Carolina’s factories, these historic villages weave together past and present.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/mill-towns-quiz/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Elizabeth: Storytellers Among Us</title>
+      <link>https://www.ourstate.com/from-elizabeth-storytellers-among-us/</link>
+      <guid isPermaLink="false">ourstate-post-217239</guid>
+      <pubDate>Tue, 13 Oct 2026 19:00:25 +0000</pubDate>
+      <description>&lt;p&gt;In this episode of From Elizabeth, our editor in chief celebrates the writers, relatives, and friends whose words transport us through time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-storytellers-among-us/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fall Into the Holidays in Williamsburg and Beyond</title>
