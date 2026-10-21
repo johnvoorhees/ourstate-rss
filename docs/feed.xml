@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 16:54:55 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Take a Walk on the Dino Side in Gaston County</title>
+      <link>https://www.ourstate.com/take-a-walk-on-the-dino-side-in-gaston-county/</link>
+      <guid isPermaLink="false">ourstate-post-217276</guid>
+      <pubDate>Wed, 21 Oct 2026 16:23:18 +0000</pubDate>
+      <description>&lt;p&gt;From Gastonia to Belmont, Mount Holly, and beyond, a Dino Trail celebrates the new Hall of Dinosaurs with restaurant specials, shopping selections, and playful activities across the county.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/take-a-walk-on-the-dino-side-in-gaston-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>From Trails to Skies: An Inspiring Weekend in Burnsville</title>
       <link>https://www.ourstate.com/weekend-in-burnsville/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-216889</guid>
       <pubDate>Mon, 12 Oct 2026 17:37:50 +0000</pubDate>
       <description>&lt;p&gt;From Halloween to Christmas, celebrate historic traditions and make some new ones in Williamsburg, Jamestown, and Yorktown.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/fall-into-the-holidays-in-williamsburg-and-beyond/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our State Gift Guide 2026</title>
-      <link>https://www.ourstate.com/our-state-gift-guide-2026/</link>
-      <guid isPermaLink="false">ourstate-post-216919</guid>
-      <pubDate>Mon, 12 Oct 2026 16:06:09 +0000</pubDate>
-      <description>&lt;p&gt;This holiday season, shop for gourmet goodies, curated experiences, and home decor from independent makers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/our-state-gift-guide-2026/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
