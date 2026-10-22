@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:35:34 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Guide to Randolph County</title>
+      <link>https://www.ourstate.com/your-guide-to-randolph-county-2/</link>
+      <guid isPermaLink="false">ourstate-post-217442</guid>
+      <pubDate>Thu, 22 Oct 2026 16:00:45 +0000</pubDate>
+      <description>&lt;p&gt;Explore wooded trails, visit potters’ studios, and dine in downtown establishments in the heart of our state where there’s always a reason to return.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-guide-to-randolph-county-2/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Take a Walk on the Dino Side in Gaston County</title>
       <link>https://www.ourstate.com/take-a-walk-on-the-dino-side-in-gaston-county/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-217239</guid>
       <pubDate>Tue, 13 Oct 2026 19:00:25 +0000</pubDate>
       <description>&lt;p&gt;In this episode of From Elizabeth, our editor in chief celebrates the writers, relatives, and friends whose words transport us through time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-storytellers-among-us/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fall Into the Holidays in Williamsburg and Beyond</title>
-      <link>https://www.ourstate.com/fall-into-the-holidays-in-williamsburg-and-beyond/</link>
-      <guid isPermaLink="false">ourstate-post-216889</guid>
-      <pubDate>Mon, 12 Oct 2026 17:37:50 +0000</pubDate>
-      <description>&lt;p&gt;From Halloween to Christmas, celebrate historic traditions and make some new ones in Williamsburg, Jamestown, and Yorktown.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/fall-into-the-holidays-in-williamsburg-and-beyond/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
