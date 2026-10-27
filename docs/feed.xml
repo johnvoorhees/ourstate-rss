@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:20:24 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Family Fun in Gaston County</title>
+      <link>https://www.ourstate.com/family-fun-in-gaston-county-2/</link>
+      <guid isPermaLink="false">ourstate-post-218001</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:54 +0000</pubDate>
+      <description>&lt;p&gt;From pumpkin patches and tractor rides to seasonal sweet treats, autumn activities await your whole crew in Dallas, Gastonia, Belmont, and beyond.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/family-fun-in-gaston-county-2/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Timeless Holiday Experiences in Winston-Salem</title>
       <link>https://www.ourstate.com/timeless-holiday-experiences-in-winston-salem/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-217562</guid>
       <pubDate>Fri, 23 Oct 2026 12:43:27 +0000</pubDate>
       <description>&lt;p&gt;In 1935, Mollie Huston Lee opened Raleigh’s first library for Black residents. Nine decades later, her vision of a place for opportunity and community remains in circulation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-legacy-in-books/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Preserved in Pictures</title>
-      <link>https://www.ourstate.com/preserved-in-pictures/</link>
-      <guid isPermaLink="false">ourstate-post-217577</guid>
-      <pubDate>Fri, 23 Oct 2026 12:43:10 +0000</pubDate>
-      <description>&lt;p&gt;Thousands of photographs were meant to become a digital family archive. They also opened the door to stories of love, hardship, and humor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/preserved-in-pictures/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
