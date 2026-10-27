@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:38:17 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timeless Holiday Experiences in Winston-Salem</title>
+      <link>https://www.ourstate.com/timeless-holiday-experiences-in-winston-salem/</link>
+      <guid isPermaLink="false">ourstate-post-204309</guid>
+      <pubDate>Tue, 27 Oct 2026 10:37:04 +0000</pubDate>
+      <description>&lt;p&gt;Sing carols, brunch with Santa, and settle into Southern hospitality at the city’s most iconic estates, Reynolda House and The Graylyn Estate.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/timeless-holiday-experiences-in-winston-salem/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Choose Your Sparkle: A Windsor Jewelers Henri Daussi Diamond Band Giveaway</title>
       <link>https://www.ourstate.com/choose-your-sparkle-a-windsor-jewelers-henri-daussi-diamond-band-giveaway/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-217577</guid>
       <pubDate>Fri, 23 Oct 2026 12:43:10 +0000</pubDate>
       <description>&lt;p&gt;Thousands of photographs were meant to become a digital family archive. They also opened the door to stories of love, hardship, and humor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/preserved-in-pictures/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>10 Flavors That Taste Like Home</title>
-      <link>https://www.ourstate.com/10-flavors-that-taste-like-home/</link>
-      <guid isPermaLink="false">ourstate-post-217543</guid>
-      <pubDate>Fri, 23 Oct 2026 12:42:05 +0000</pubDate>
-      <description>&lt;p&gt;From pies to pork and beer to biscuits, these North Carolina flavors call us back to the people, places, and tables we grew up around.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/10-flavors-that-taste-like-home/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
