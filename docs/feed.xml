@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:28:17 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home-Brewed in Moore County</title>
+      <link>https://www.ourstate.com/home-brewed-in-moore-county/</link>
+      <guid isPermaLink="false">ourstate-post-218030</guid>
+      <pubDate>Wed, 28 Oct 2026 16:00:21 +0000</pubDate>
+      <description>&lt;p&gt;From a veteran-owned brewery to a neighborhood coffee roaster, these six Sandhills spots pour community into every pint, cup, and glass.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/home-brewed-in-moore-county/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Family Fun in Gaston County</title>
       <link>https://www.ourstate.com/family-fun-in-gaston-county-2/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-217600</guid>
       <pubDate>Fri, 23 Oct 2026 12:43:59 +0000</pubDate>
       <description>&lt;p&gt;From pumpkin-studded pasta and apple custard cake to game-day sliders and hot wings, readers settled into fall with familiar flavors. Find the ones they returned to time and again this month.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/11-our-state-recipes-you-loved-in-october-5/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Legacy in Books</title>
-      <link>https://www.ourstate.com/a-legacy-in-books/</link>
-      <guid isPermaLink="false">ourstate-post-217562</guid>
-      <pubDate>Fri, 23 Oct 2026 12:43:27 +0000</pubDate>
-      <description>&lt;p&gt;In 1935, Mollie Huston Lee opened Raleigh’s first library for Black residents. Nine decades later, her vision of a place for opportunity and community remains in circulation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-legacy-in-books/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
