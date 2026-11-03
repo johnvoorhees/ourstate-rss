@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:52:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:55:26 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Days of Luxury in Cashiers and Beyond</title>
+      <link>https://www.ourstate.com/three-days-of-luxury-in-cashiers-and-beyond/</link>
+      <guid isPermaLink="false">ourstate-post-204163</guid>
+      <pubDate>Tue, 03 Nov 2026 16:41:28 +0000</pubDate>
+      <description>&lt;p&gt;Guided excursions into the mountain backcountry, gracious hospitality, and elevated culinary creations are just the start of your Jackson County getaway.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/three-days-of-luxury-in-cashiers-and-beyond/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Holiday Movie Magic Made Real in Mooresville</title>
       <link>https://www.ourstate.com/holiday-movie-magic-made-real-in-mooresville/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-217874</guid>
       <pubDate>Tue, 27 Oct 2026 01:51:45 +0000</pubDate>
       <description>&lt;p&gt;Much like the Appalachian flatfooters of old, Latino dance groups across the state are telling stories of home and heritage through traditional folk dances — and enriching North Carolina’s cultural story.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/steps-that-bind/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Stories We Sing</title>
-      <link>https://www.ourstate.com/the-stories-we-sing/</link>
-      <guid isPermaLink="false">ourstate-post-217906</guid>
-      <pubDate>Tue, 27 Oct 2026 01:51:43 +0000</pubDate>
-      <description>&lt;p&gt;A ghost tale whispered among children in Randolph County led one writer to discover how deeply musical storytelling runs through North Carolina.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/the-stories-we-sing/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
