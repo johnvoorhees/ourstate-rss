@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Nov 2026 20:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:29:25 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Wine Wonderland in Surry County</title>
+      <link>https://www.ourstate.com/surry-county-nc-wine-guide/</link>
+      <guid isPermaLink="false">ourstate-post-218197</guid>
+      <pubDate>Wed, 04 Nov 2026 18:00:36 +0000</pubDate>
+      <description>&lt;p&gt;Warm up with fireside tastings, trace the wine-making process from grape to glass, and savor seasonal pours across six Yadkin Valley vineyards.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/surry-county-nc-wine-guide/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Three Days of Luxury in Cashiers and Beyond</title>
       <link>https://www.ourstate.com/three-days-of-luxury-in-cashiers-and-beyond/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-217846</guid>
       <pubDate>Tue, 27 Oct 2026 01:51:47 +0000</pubDate>
       <description>&lt;p&gt;On the Qualla Boundary, Cherokee stories flow through daily life, carrying language, memory, and belonging from one generation to the next.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/along-the-oconaluftee/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Steps That Bind</title>
-      <link>https://www.ourstate.com/steps-that-bind/</link>
-      <guid isPermaLink="false">ourstate-post-217874</guid>
-      <pubDate>Tue, 27 Oct 2026 01:51:45 +0000</pubDate>
-      <description>&lt;p&gt;Much like the Appalachian flatfooters of old, Latino dance groups across the state are telling stories of home and heritage through traditional folk dances — and enriching North Carolina’s cultural story.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/steps-that-bind/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
