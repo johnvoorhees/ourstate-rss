@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:29:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:23:25 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome Winter Fun in Boone</title>
+      <link>https://www.ourstate.com/welcome-winter-fun-in-boone-nc/</link>
+      <guid isPermaLink="false">ourstate-post-191279</guid>
+      <pubDate>Fri, 06 Nov 2026 13:51:18 +0000</pubDate>
+      <description>&lt;p&gt;From zipping down the slopes to finding precious gemstones and meeting folk artists, here are six ways to embrace the winter months in the Blue Ridge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/welcome-winter-fun-in-boone-nc/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Wine Wonderland in Surry County</title>
       <link>https://www.ourstate.com/surry-county-nc-wine-guide/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-217784</guid>
       <pubDate>Tue, 27 Oct 2026 01:51:49 +0000</pubDate>
       <description>&lt;p&gt;Guy Parker rarely spoke of the battles he survived as one of the country’s first Black Marines. But the values he brought home shaped his family, his community, and his beloved barbecue restaurant in Goldsboro.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/what-my-father-carried/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Along the Oconaluftee</title>
-      <link>https://www.ourstate.com/along-the-oconaluftee/</link>
-      <guid isPermaLink="false">ourstate-post-217846</guid>
-      <pubDate>Tue, 27 Oct 2026 01:51:47 +0000</pubDate>
-      <description>&lt;p&gt;On the Qualla Boundary, Cherokee stories flow through daily life, carrying language, memory, and belonging from one generation to the next.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/along-the-oconaluftee/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
