@@ -5,8 +5,22 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:30:00 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Only in Perquimans</title>
+      <link>https://www.ourstate.com/only-in-perquimans-nc/</link>
+      <guid isPermaLink="false">ourstate-post-218420</guid>
+      <pubDate>Mon, 09 Nov 2026 15:00:46 +0000</pubDate>
+      <description>&lt;p&gt;Tour a colonial homestead, get a sweet scoop at an old-fashioned soda shop, and explore downtown Hertford during an unhurried weekend on the Albemarle Sound.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/only-in-perquimans-nc/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ways to Embrace the Crystal Coast’s Magic in the Shoulder Season</title>
+      <link>https://www.ourstate.com/crystal-coast-winter-guide/</link>
+      <guid isPermaLink="false">ourstate-post-218306</guid>
+      <pubDate>Mon, 09 Nov 2026 14:54:48 +0000</pubDate>
+      <description>&lt;p&gt;From fall through winter, the beaches between Ocracoke Inlet and the New River let you in on their most beautiful secrets.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/crystal-coast-winter-guide/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Local’s Guide to Charlotte During the Holidays</title>
       <link>https://www.ourstate.com/holiday-guide-to-charlotte/</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="false">ourstate-post-217735</guid>
       <pubDate>Tue, 27 Oct 2026 01:51:54 +0000</pubDate>
       <description>&lt;p&gt;Draped in a fudgy caramel icing, this cake was the star of homecoming meals at Big Sandy United Methodist Church. Today, each slice still carries memories by the bite.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/ann-ball-daviss-cold-oven-walnut-pound-cake/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Family Fruitcake</title>
-      <link>https://www.ourstate.com/the-family-fruitcake/</link>
-      <guid isPermaLink="false">ourstate-post-217754</guid>
-      <pubDate>Tue, 27 Oct 2026 01:51:52 +0000</pubDate>
-      <description>&lt;p&gt;On the Friday after Thanksgiving, an heirloom recipe brings sisters, cousins, daughters, and granddaughters together for a tradition that’s become its own kind of inheritance.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/the-family-fruitcake/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Effie’s Fruitcake</title>
-      <link>https://www.ourstate.com/effies-fruitcake/</link>
-      <guid isPermaLink="false">ourstate-post-217771</guid>
-      <pubDate>Tue, 27 Oct 2026 01:51:50 +0000</pubDate>
-      <description>&lt;p&gt;Once you’ve chopped all the dried fruits and nuts and cured the cake for several days, you’re left with something very sweet — a gift to share with friends and loved ones all season long.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/effies-fruitcake/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
