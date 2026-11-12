@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:11:02 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Behind the Scenes at Our State</title>
+      <link>https://www.ourstate.com/go-behind-the-scenes-at-our-state/</link>
+      <guid isPermaLink="false">ourstate-post-218817</guid>
+      <pubDate>Thu, 12 Nov 2026 18:11:02 +0000</pubDate>
+      <description>&lt;p&gt;From the mountains to the sea … to the press! Get a firsthand look at the making of the magazine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/go-behind-the-scenes-at-our-state/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Homecoming at Pine Crest Inn</title>
       <link>https://www.ourstate.com/homecoming-at-pine-crest-inn/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-218306</guid>
       <pubDate>Mon, 09 Nov 2026 14:54:48 +0000</pubDate>
       <description>&lt;p&gt;From fall through winter, the beaches between Ocracoke Inlet and the New River let you in on their most beautiful secrets.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/crystal-coast-winter-guide/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Local’s Guide to Charlotte During the Holidays</title>
-      <link>https://www.ourstate.com/holiday-guide-to-charlotte/</link>
-      <guid isPermaLink="false">ourstate-post-218272</guid>
-      <pubDate>Sun, 08 Nov 2026 13:26:43 +0000</pubDate>
-      <description>&lt;p&gt;Celebrate the spirit of the season across the Queen City with a day-to-night guide to warming brews, holiday markets, twinkling light displays, and comforting bites.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/holiday-guide-to-charlotte/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
