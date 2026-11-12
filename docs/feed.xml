@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Nov 2026 21:57:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:29:14 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homecoming at Pine Crest Inn</title>
+      <link>https://www.ourstate.com/homecoming-at-pine-crest-inn/</link>
+      <guid isPermaLink="false">ourstate-post-218657</guid>
+      <pubDate>Thu, 12 Nov 2026 13:53:14 +0000</pubDate>
+      <description>&lt;p&gt;In the heart of the Sandhills, one historic gathering place brings familiar faces and time-honored traditions together year after year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/homecoming-at-pine-crest-inn/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A Glass of Good Cheer</title>
       <link>https://www.ourstate.com/buttermilk/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-218272</guid>
       <pubDate>Sun, 08 Nov 2026 13:26:43 +0000</pubDate>
       <description>&lt;p&gt;Celebrate the spirit of the season across the Queen City with a day-to-night guide to warming brews, holiday markets, twinkling light displays, and comforting bites.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/holiday-guide-to-charlotte/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome Winter Fun in Boone</title>
-      <link>https://www.ourstate.com/welcome-winter-fun-in-boone-nc/</link>
-      <guid isPermaLink="false">ourstate-post-191279</guid>
-      <pubDate>Fri, 06 Nov 2026 13:51:18 +0000</pubDate>
-      <description>&lt;p&gt;From zipping down the slopes to finding precious gemstones and meeting folk artists, here are six ways to embrace the winter months in the Blue Ridge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/welcome-winter-fun-in-boone-nc/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
