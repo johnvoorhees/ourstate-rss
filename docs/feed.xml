@@ -5,7 +5,7 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:14:53 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Your Guide to High Point</title>
@@ -13,6 +13,13 @@
       <guid isPermaLink="false">ourstate-post-173667</guid>
       <pubDate>Wed, 18 Nov 2026 14:30:57 +0000</pubDate>
       <description>&lt;p&gt;Where to eat, play, and explore — beyond the furniture stores — in the Home Furnishings Capital of the World.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/your-guide-to-high-point/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Holiday Spirit in the Sandhills</title>
+      <link>https://www.ourstate.com/holiday-spirit-in-the-sandhills/</link>
+      <guid isPermaLink="false">ourstate-post-205260</guid>
+      <pubDate>Tue, 17 Nov 2026 15:37:21 +0000</pubDate>
+      <description>&lt;p&gt;From twinkling downtowns and tree-lighting ceremonies to an enchanting train ride, local Warren Lewis shows off a few of his favorite spots to make the season merry and bright in Pinehurst, Southern Pines, and beyond.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/holiday-spirit-in-the-sandhills/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Go Behind the Scenes at Our State</title>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-218086</guid>
       <pubDate>Tue, 10 Nov 2026 09:00:56 +0000</pubDate>
       <description>&lt;p&gt;Enter to win a rafting trip and two-night stay at Wildwater Rafting.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/ride-the-rapids-in-upcountry-south-carolina/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Only in Perquimans</title>
-      <link>https://www.ourstate.com/only-in-perquimans-nc/</link>
-      <guid isPermaLink="false">ourstate-post-218420</guid>
-      <pubDate>Mon, 09 Nov 2026 15:00:46 +0000</pubDate>
-      <description>&lt;p&gt;Tour a colonial homestead, get a sweet scoop at an old-fashioned soda shop, and explore downtown Hertford during an unhurried weekend on the Albemarle Sound.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/only-in-perquimans-nc/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
