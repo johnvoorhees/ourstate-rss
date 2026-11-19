@@ -5,8 +5,15 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:08:14 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Days in Durham</title>
+      <link>https://www.ourstate.com/three-days-in-durham-north-carolina/</link>
+      <guid isPermaLink="false">ourstate-post-120106</guid>
+      <pubDate>Thu, 19 Nov 2026 07:00:27 +0000</pubDate>
+      <description>&lt;p&gt;Spend a weekend soaking up history and charm in this vibrant Southern city.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/three-days-in-durham-north-carolina/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Your Guide to High Point</title>
       <link>https://www.ourstate.com/your-guide-to-high-point/</link>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-218789</guid>
       <pubDate>Wed, 11 Nov 2026 19:00:09 +0000</pubDate>
       <description>&lt;p&gt;During a lunchtime outing in Morganton, our editor in chief marvels at the way everyday interactions — a stranger’s kindness, a loved one’s story — can unlock a sense of wonder that knows no season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-party-of-two/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ride the Rapids in Upcountry South Carolina!</title>
-      <link>https://www.ourstate.com/ride-the-rapids-in-upcountry-south-carolina/</link>
-      <guid isPermaLink="false">ourstate-post-218086</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:56 +0000</pubDate>
-      <description>&lt;p&gt;Enter to win a rafting trip and two-night stay at Wildwater Rafting.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/ride-the-rapids-in-upcountry-south-carolina/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
