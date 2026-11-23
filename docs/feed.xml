@@ -5,8 +5,22 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:16:39 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Behind the Silver Screen in Wilmington</title>
+      <link>https://www.ourstate.com/behind-the-silver-screen-in-wilmington/</link>
+      <guid isPermaLink="false">ourstate-post-218901</guid>
+      <pubDate>Mon, 23 Nov 2026 14:00:53 +0000</pubDate>
+      <description>&lt;p&gt;Hollywood East Brewseum, a new museum and restaurant, celebrates the Port City’s film and TV heritage, bringing together local crew members and devoted fans.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/behind-the-silver-screen-in-wilmington/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Art for All in Hickory</title>
+      <link>https://www.ourstate.com/art-for-all-in-hickory/</link>
+      <guid isPermaLink="false">ourstate-post-218884</guid>
+      <pubDate>Mon, 23 Nov 2026 14:00:39 +0000</pubDate>
+      <description>&lt;p&gt;In the newly renovated Hickory Museum of Art, local and national talent take center stage, inspiring visitors to create their own masterpieces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/art-for-all-in-hickory/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Three Days in Durham</title>
       <link>https://www.ourstate.com/three-days-in-durham-north-carolina/</link>
@@ -132,20 +146,6 @@
       <guid isPermaLink="false">ourstate-post-218165</guid>
       <pubDate>Wed, 11 Nov 2026 21:50:24 +0000</pubDate>
       <description>&lt;p&gt;Yuletide traditions in Old Salem — like the Moravian lovefeast — remind us what’s important in life.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/a-feast-for-the-heart/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>North Carolina, Naturally: The Quiet Season</title>
-      <link>https://www.ourstate.com/north-carolina-naturally-the-quiet-season/</link>
-      <guid isPermaLink="false">ourstate-post-218793</guid>
-      <pubDate>Wed, 11 Nov 2026 19:00:11 +0000</pubDate>
-      <description>&lt;p&gt;As December arrives in North Carolina, our animals cozy in for a long winter’s nap. From beavers hunkering in their lodges to snapping turtles hibernating in the mud, Dr. Eleanor Spicer Rice bids them sweet dreams until springtime.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/north-carolina-naturally-the-quiet-season/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From Elizabeth: Party of Two</title>
-      <link>https://www.ourstate.com/from-elizabeth-party-of-two/</link>
-      <guid isPermaLink="false">ourstate-post-218789</guid>
-      <pubDate>Wed, 11 Nov 2026 19:00:09 +0000</pubDate>
-      <description>&lt;p&gt;During a lunchtime outing in Morganton, our editor in chief marvels at the way everyday interactions — a stranger’s kindness, a loved one’s story — can unlock a sense of wonder that knows no season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/from-elizabeth-party-of-two/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
