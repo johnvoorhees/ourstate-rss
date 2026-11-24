@@ -5,7 +5,7 @@
     <link>https://www.ourstate.com/</link>
     <description>Unofficial metadata-only feed for personal reading. All articles belong to Our State.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:37:52 +0000</lastBuildDate>
     <atom:link href="https://johnvoorhees.github.io/ourstate-rss/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Very Carolina Christmas Tree</title>
@@ -120,6 +120,13 @@
       <description>&lt;p&gt;In the newly renovated Hickory Museum of Art, local and national talent take center stage, inspiring visitors to create their own masterpieces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/art-for-all-in-hickory/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>A Fresh Take at LRB Provisions</title>
+      <link>https://www.ourstate.com/lrb-provisions/</link>
+      <guid isPermaLink="false">ourstate-post-218982</guid>
+      <pubDate>Sun, 22 Nov 2026 17:00:32 +0000</pubDate>
+      <description>&lt;p&gt;At this Durham sandwich shop, decades of fine-dining experience meet the familiar comforts of great food and good company.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/lrb-provisions/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Three Days in Durham</title>
       <link>https://www.ourstate.com/three-days-in-durham-north-carolina/</link>
       <guid isPermaLink="false">ourstate-post-120106</guid>
@@ -139,13 +146,6 @@
       <guid isPermaLink="false">ourstate-post-205260</guid>
       <pubDate>Tue, 17 Nov 2026 15:37:21 +0000</pubDate>
       <description>&lt;p&gt;From twinkling downtowns and tree-lighting ceremonies to an enchanting train ride, local Warren Lewis shows off a few of his favorite spots to make the season merry and bright in Pinehurst, Southern Pines, and beyond.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/holiday-spirit-in-the-sandhills/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Go Behind the Scenes at Our State</title>
-      <link>https://www.ourstate.com/go-behind-the-scenes-at-our-state/</link>
-      <guid isPermaLink="false">ourstate-post-218817</guid>
-      <pubDate>Thu, 12 Nov 2026 18:11:02 +0000</pubDate>
-      <description>&lt;p&gt;From the mountains to the sea … to the press! Get a firsthand look at the making of the magazine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.ourstate.com/go-behind-the-scenes-at-our-state/"&gt;Read the original at Our State&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
